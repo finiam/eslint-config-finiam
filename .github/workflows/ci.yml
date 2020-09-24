@@ -27,7 +27,10 @@ jobs:
               ${{ runner.os }}-node-
 
       - name: Install node deps
-        run: yarn
+        run: |
+          yarn
+          yarn link
+          yarn link eslint-config-finiam
 
       - name: Lint
         run: |
