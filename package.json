@@ -1,13 +1,13 @@
 {
   "name": "eslint-config-finiam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Finiam",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ."
   },
   "repository": {
-    "url": "https://github.com/finiam/eslint-config-finiam-react"
+    "url": "https://github.com/finiam/eslint-config-finiam"
   },
   "peerDependencies": {
     "eslint": "^7.9.0"
