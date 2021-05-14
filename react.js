@@ -27,6 +27,6 @@ module.exports = {
     "react/jsx-curly-newline": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "react/jsx-no-bind": "error"
+    "react/jsx-no-bind": "error",
   },
 };
